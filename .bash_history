@@ -40,3 +40,13 @@ touch f2.txt
 ls
 git checkout devlop
 git branch
+ls
+git branch
+git checkout master
+git branch 
+git add .&& git commit -m "done"
+git stash f2.txt
+git stash pop
+ls
+git stash code.txt
+ls
